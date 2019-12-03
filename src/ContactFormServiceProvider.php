@@ -1,6 +1,6 @@
 <?php
     
-namespace MyVendor\contactform;
+namespace MySyntrio\contactform;
 
 use Illuminate\Support\ServiceProvider;
 use Illuminate\Support\Facades\Schema;

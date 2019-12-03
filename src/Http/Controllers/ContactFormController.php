@@ -1,8 +1,8 @@
 <?php
-namespace MyVendor\contactform\Http\Controllers;
+namespace MySyntrio\contactform\Http\Controllers;
 use App\Http\Controllers\Controller;
 use Illuminate\Http\Request;
-use MyVendor\contactform\Models\ContactForm;
+use MySyntrio\contactform\Models\ContactForm;
 
 class ContactFormController extends Controller {
 
