@@ -8,7 +8,7 @@
     "require": {},
     "autoload": {
         "psr-4": {
-            "MySyntrio\\contactform\\": "src/"
+            "my-syntrio\\contactform\\": "src/"
         }
     }
 }
