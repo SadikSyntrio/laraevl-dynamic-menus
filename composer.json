@@ -1,0 +1,14 @@
+{
+    "name": "MyVendor/Contactform",
+    "description": "A contact form package for laravel",
+    "authors": [{
+        "name": "samuel ogundipe",
+        "email": "email@email.com"
+    }],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "MyVendor\\ContactForm\\": "src/"
+        }
+    }
+}
