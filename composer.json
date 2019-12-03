@@ -1,5 +1,5 @@
 {
-    "name": "MyVendor/contactform",
+    "name": "my-vendor/contactform",
     "description": "A contact form package for laravel",
     "authors": [{
         "name": "samuel ogundipe",
@@ -8,7 +8,7 @@
     "require": {},
     "autoload": {
         "psr-4": {
-            "MyVendor\\contactform\\": "src/"
+            "my-vendor\\contactform\\": "src/"
         }
     }
 }
